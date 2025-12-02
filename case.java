@@ -1,12 +1,4 @@
-# Java Online Job Portal
 
-Below are **3 Java files** for a simple job portal: `Main.java`, `Job.java`, and `JobPortal.java`.
-
----
-
-## **File 1: Job.java**
-
-```java
 public class Job {
     private String title;
     private String company;
@@ -163,8 +155,4 @@ public class Main {
         }
     }
 }
-```
 
----
-
-If you want, I can **convert this into full MVC structure**, add **MySQL database**, or build a **Spring Boot job portal**. Just say the word.
